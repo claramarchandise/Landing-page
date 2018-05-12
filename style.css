@@ -1,0 +1,48 @@
+body {
+	background-color: #8D99AE;
+	color: white;
+	font-size: 28px;
+	font-family: Courier;
+	margin:0;
+	margin-top: -38px;
+}
+
+h1 {
+	font-family: Courier;
+	color: white;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#banner {
+	font-family: Courier;
+	color: white;
+	font-weight: lighter;
+	text-align: center;
+	background-image: url("images/images.jpg");
+	background-size: cover;
+	margin: 0
+	margin-top: -38px;
+}
+
+p {
+	font-family: Courier;
+	color: white;
+	font-weight: lighter;
+}
+
+h2 {
+	font-family: Courier;
+	color: white;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a:hover {
+	color: white;
+	font-size: 24px;
+}
+
+.card{
+	text-align: center;
+}
